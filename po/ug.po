@@ -1,0 +1,115 @@
+# Uyghur translation for xfce4-systemload-plugin.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gheyret Kenji <gheyret@gmail.com>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-systemload-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 04:27+0000\n"
+"PO-Revision-Date: 2011-11-09 16:10+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../panel-plugin/cpu.c:63
+msgid "File /proc/stat not found!"
+msgstr "ھۆججىتى /proc/stat تېپىلمىدى"
+
+#: ../panel-plugin/systemload.c:159
+#, c-format
+msgid "System Load: %ld%%"
+msgstr "سىستېما يۈكى: %ld%%"
+
+#: ../panel-plugin/systemload.c:166
+#, c-format
+msgid "Memory: %ldMB of %ldMB used"
+msgstr "ئىشلىتىلگەن ئەسلەك:  %ldم ب / %ldم ب"
+
+#: ../panel-plugin/systemload.c:174
+#, c-format
+msgid "Swap: %ldMB of %ldMB used"
+msgstr "ئىشلىتىلگەن Swap: %ldم ب of %ldم ب"
+
+#: ../panel-plugin/systemload.c:177
+#, c-format
+msgid "No swap"
+msgstr "swap يوق"
+
+#: ../panel-plugin/systemload.c:188
+#, c-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d كۈن"
+
+#: ../panel-plugin/systemload.c:192
+#, c-format
+msgid "Uptime: %d day %d:%02d"
+msgid_plural "Uptime: %d days %d:%02d"
+msgstr[0] "ئىشلەۋاتقان ۋاقىت: %d كۈن %d:%02d"
+
+#: ../panel-plugin/systemload.c:200
+#, c-format
+msgid "Uptime: %d:%02d"
+msgstr "ئىشلەۋاتقان ۋاقىت: %d:%02d"
+
+#: ../panel-plugin/systemload.c:816
+msgid "CPU monitor"
+msgstr "CPU كۆزەتكۈ"
+
+#: ../panel-plugin/systemload.c:817
+msgid "Memory monitor"
+msgstr "ئەسلەك كۆزەتكۈ"
+
+#: ../panel-plugin/systemload.c:818
+msgid "Swap monitor"
+msgstr "Swap كۆزەتكۈ"
+
+#: ../panel-plugin/systemload.c:819
+msgid "Uptime monitor"
+msgstr "ئىشلەۋاتقان ۋاقىت كۆزەتكۈ"
+
+#: ../panel-plugin/systemload.c:824 ../panel-plugin/systemload.desktop.in:5
+msgid "System Load Monitor"
+msgstr "سىستېما يۈكى كۆزەتكۈ"
+
+#: ../panel-plugin/systemload.c:839
+msgid "General"
+msgstr "ئادەتتىكى"
+
+#: ../panel-plugin/systemload.c:841
+msgid "Update interval:"
+msgstr "يېڭىلاش ئىنتېرۋالى:"
+
+#: ../panel-plugin/systemload.c:841 ../panel-plugin/systemload.c:846
+msgid "s"
+msgstr "s"
+
+#: ../panel-plugin/systemload.c:846
+msgid "Power-saving interval:"
+msgstr "تەك تېجەش ئىنتېرۋالى:"
+
+#: ../panel-plugin/systemload.c:860
+msgid "Text to display:"
+msgstr "كۆرسىتىدىغان تېكىست:"
+
+#: ../panel-plugin/systemload.c:864
+msgid "Bar color:"
+msgstr "بالداق رەڭگى:"
+
+#: ../panel-plugin/systemload.c:889 ../panel-plugin/systemload.desktop.in:4
+msgid "Monitor CPU load, swap usage and memory footprint"
+msgstr "CPU نىڭ يۈكى، swap ۋە ئەسلەكنى كۆزىتىدۇ"
+
+#: ../panel-plugin/systemload.c:891
+msgid "Copyright (c) 2003-2012\n"
+msgstr "نەشر ھوقۇقى (c) 2003-2012\n"
+
+#: ../panel-plugin/uptime.c:53
+msgid "File /proc/uptime not found!"
+msgstr "ھۆججەت /proc/uptime تېپىلمىدى!"
